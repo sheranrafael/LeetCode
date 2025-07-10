@@ -16,5 +16,3 @@ end
 
 # Testando
 puts two_sum([2, 7, 11, 15], 9).inspect # Saída: [0, 1]
-
-#Valeu
