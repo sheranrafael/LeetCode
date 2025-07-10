@@ -14,5 +14,3 @@ def is_palindrome(x)
 
   original == invertido
 end
-
-# Valeu
