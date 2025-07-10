@@ -26,5 +26,3 @@ def add_strings(num1, num2)
 
   resultado
 end
-
-# Valeu
